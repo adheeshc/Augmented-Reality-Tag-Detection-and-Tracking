@@ -23,7 +23,7 @@ most significant bit
 
 ### Detection Stage
 
-![Detect Tag](/Images/Detection.png|width=100)
+![Detect Tag](/Images/Detection.png=100x)
 
 The detection stage involves finding the AR Tag from a given image 
 
