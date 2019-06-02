@@ -9,7 +9,7 @@ Then an image will be superimposed onto the tag. Finally, a virtual 3D cube will
 ### Encoding Stage
 
 <p align="center">
-  src=(/Dataset/ref_marker_grid.png)
+  ![Reference Marker](/Dataset/ref_marker_grid.png)
 </p>
 
 
