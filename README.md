@@ -4,7 +4,7 @@
 ## **PROJECT DESCRIPTION**
 
 The aim of this project is to detect custom AR Tags 
-- detection in itself is a three-step process of encoding, detection and tracking.
+- Detection in itself is a three-step process of encoding, detection and tracking.
 - Then an image (Lena) will be superimposed onto the tag. 
 - Finally, a virtual 3D cube will be placed on the tag
 
