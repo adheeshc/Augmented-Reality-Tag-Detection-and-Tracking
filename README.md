@@ -3,11 +3,12 @@
 
 ## **PROJECT DESCRIPTION**
 
-The aim of this project is to detect custom AR Tags which is a three-step process of encoding, detection and tracking. 
+The aim of this project is to detect custom AR Tags which is a three-step process of encoding, detection and tracking.
+Then an image will be superimposed onto the tag. Finally, a virtual 3D cube will be placed on the tag
 
 ### Encoding Stage
 
-![Reference AR Tag](/Dataset/ref_marker.png)
+<!--![Reference AR Tag](/Dataset/ref_marker_grid.png)-->
 
 - The tag can be decomposed into an 8 × 8 grid of squares, which includes a padding of 2 squares width
 along the borders. This allows easy detection of the tag when placed on white background.
