@@ -8,7 +8,8 @@ Then an image will be superimposed onto the tag. Finally, a virtual 3D cube will
 
 ### Encoding Stage
 
-[Reference AR Tag](/Dataset/ref_marker_grid.png)
+![Reference AR Tag](/Dataset/ref_marker_grid.png)
+
 
 - The tag can be decomposed into an 8 × 8 grid of squares, which includes a padding of 2 squares width
 along the borders. This allows easy detection of the tag when placed on white background.
