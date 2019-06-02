@@ -8,6 +8,8 @@ The aim of this project is to detect custom AR Tags
 - Then an image (Lena) will be superimposed onto the tag. 
 - Finally, a virtual 3D cube will be placed on the tag
 
+Please refer to [Project Report](https://github.com/adheeshc/Augmented-Reality-Tag-Detection-and-Tracking/blob/master/Report/Perception%20Homography.pdf)
+
 ### Encoding Stage
 
 <p align="center">
@@ -32,7 +34,7 @@ most significant bit
   <img src="/Images/Detection.png" alt="Detect Tag" width="200"/>
 </p>
 
-The detection stage involves finding the AR Tag from a given image 
+The detection stage involves finding the AR Tag from a given image. I have used contours for this. 
 
 ### Tracking Stage
 
