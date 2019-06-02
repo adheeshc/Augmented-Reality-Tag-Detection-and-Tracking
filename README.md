@@ -10,10 +10,6 @@ Then an image will be superimposed onto the tag. Finally, a virtual 3D cube will
 
 ![Reference Marker](/Dataset/ref_marker_grid.png)
 
-
-
-
-
 - The tag can be decomposed into an 8 × 8 grid of squares, which includes a padding of 2 squares width
 along the borders. This allows easy detection of the tag when placed on white background.
 
@@ -25,10 +21,26 @@ binary representation of the tag’s ID, which is ordered in the clockwise direc
 to most significant. So, the top-left square is the least significant bit, and the bottom-left square is the
 most significant bit
 
+### Detection Stage
 
-The detection stage involves finding the AR Tag from a given image sequence
+![Detect Tag](/Dataset/detection.png)
+
+The detection stage involves finding the AR Tag from a given image 
+
+### Tracking Stage
+
+![Track Tag](/Dataset/Tracking.gif)
 
 The tracking stage will involve keeping the tag in view throughout the sequence and performing image processing operations based on the tag’s orientation and position
+
+## Superimposing Lena
+
+![Lena Tag](/Dataset/Lena_on_tag.gif)
+
+## Placing a Virtual 3D Cube
+
+![Cube Tag](/Dataset/Cube_on_tag.gif)
+
 
 
 #### **FILE DESCRIPTION**
