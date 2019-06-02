@@ -1,11 +1,11 @@
 # Augmented Reality Tag Detection and Tracking
 
 
-#### **PROJECT DESCRIPTION**
+## **PROJECT DESCRIPTION**
 
 The aim of this project is to detect custom AR Tags which is a three-step process of encoding, detection and tracking. 
 
-Encoding Stage
+### Encoding Stage
 
 ![Reference AR Tag](/Dataset/ref_marker.png)
 
