@@ -65,7 +65,7 @@ Then the projection matrix is calculated from the camera calibration matrix and 
 
 ## **FILE DESCRIPTION**
 
-- Code folder/Final.py - The final code file to do the same. (Please comment and uncomment cv2.imshow as reqd)
+- Code Folder/[Final.py](https://github.com/adheeshc/Augmented-Reality-Tag-Detection-and-Tracking/blob/master/Code/Final.py)- The final code file to do the same. (Please comment and uncomment cv2.imshow as reqd)
 
 - Datasets folder - Contains 4 video input files 
 
