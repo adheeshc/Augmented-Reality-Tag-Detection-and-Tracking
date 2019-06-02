@@ -8,7 +8,7 @@ Then an image will be superimposed onto the tag. Finally, a virtual 3D cube will
 
 ### Encoding Stage
 
-![Reference Marker](/Dataset/ref_marker_grid.png)
+![Reference Marker](/Images/ref_marker_grid.png)
 
 - The tag can be decomposed into an 8 × 8 grid of squares, which includes a padding of 2 squares width
 along the borders. This allows easy detection of the tag when placed on white background.
@@ -23,23 +23,23 @@ most significant bit
 
 ### Detection Stage
 
-![Detect Tag](/Dataset/detection.png)
+![Detect Tag](/Images/Edge Detect.png)
 
 The detection stage involves finding the AR Tag from a given image 
 
 ### Tracking Stage
 
-![Track Tag](/Dataset/Tracking.gif)
+![Track Tag](/Images/Tracking.gif)
 
 The tracking stage will involve keeping the tag in view throughout the sequence and performing image processing operations based on the tag’s orientation and position
 
 ## Superimposing Lena
 
-![Lena Tag](/Dataset/Lena_on_tag.gif)
+![Lena Tag](/Images/Lena_on_tag.gif)
 
 ## Placing a Virtual 3D Cube
 
-![Cube Tag](/Dataset/Cube_on_tag.gif)
+![Cube Tag](/Images/Cube_on_tag.gif)
 
 
 
