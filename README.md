@@ -42,7 +42,7 @@ The tracking stage will involve keeping the tag in view throughout the sequence 
 
 ## Superimposing Lena
 
-![Lena Tag](/Images/Lena_on_tag.gif)
+![Lena Tag](/Images/Lena_on_Tag.gif)
 
 ## Placing a Virtual 3D Cube
 
