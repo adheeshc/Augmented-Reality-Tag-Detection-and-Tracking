@@ -25,9 +25,11 @@ to most significant. So, the top-left square is the least significant bit, and t
 most significant bit
 
 ### Detection Stage
-<p align="centre">
+
+<p align="center">
   <img src="/Images/Detection.png" alt="Detect Tag" width="200"/>
 </p>
+
 The detection stage involves finding the AR Tag from a given image 
 
 ### Tracking Stage
