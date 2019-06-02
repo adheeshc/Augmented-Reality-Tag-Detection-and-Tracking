@@ -34,9 +34,11 @@ The detection stage involves finding the AR Tag from a given image
 
 ### Tracking Stage
 
-![Track Tag](/Images/Tracking.gif)
+<p align="center">
+  <img src="/Images/track.png" alt="Track Tag">
+</p>
 
-The tracking stage will involve keeping the tag in view throughout the sequence and performing image processing operations based on the tag’s orientation and position
+The tracking stage will involve keeping the tag in view throughout the sequence and performing image processing operations based on the tag’s orientation and position. This is done using Homography. Refer to the Document Supplementary Homography in the Report folder for more details.
 
 ## Superimposing Lena
 
