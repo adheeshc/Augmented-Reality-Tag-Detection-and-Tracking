@@ -8,7 +8,7 @@ The aim of this project is to detect custom AR Tags
 - Then an image (Lena) will be superimposed onto the tag. 
 - Finally, a virtual 3D cube will be placed on the tag
 
-Please refer to [Project Report](https://github.com/adheeshc/Augmented-Reality-Tag-Detection-and-Tracking/blob/master/Report/Perception%20Homography.pdf)
+Please refer to [Project Report](https://github.com/adheeshc/Augmented-Reality-Tag-Detection-and-Tracking/blob/master/Report/Perception%20Homography.pdf) for further description
 
 ### Encoding Stage
 
@@ -16,7 +16,6 @@ Please refer to [Project Report](https://github.com/adheeshc/Augmented-Reality-T
   <img src="/Images/ref_marker_grid.png" alt="Reference Marker">
 </p>
 
- 
 - The tag can be decomposed into an 8 × 8 grid of squares, which includes a padding of 2 squares width
 along the borders. This allows easy detection of the tag when placed on white background.
 
@@ -63,6 +62,14 @@ Then I transform the template image onto the tag, such that the tag is “replac
 The “cube” is a simple structure made up of 8 points and lines joining them. 
 The first step is to compute the homography between the world coordinates (the reference AR tag) and the image plane (the tag in the image sequence). 
 Then the projection matrix is calculated from the camera calibration matrix and the homography matrix and the cube is placed onto the tag
+
+## **DEPENDANCIES**
+
+- Python 3
+- OpenCV
+- Numpy
+- Math (built-in)
+- Copy (built-in)
 
 
 ## **FILE DESCRIPTION**
