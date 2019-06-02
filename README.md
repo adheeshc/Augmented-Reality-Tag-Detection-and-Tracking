@@ -40,7 +40,7 @@ The detection stage involves finding the AR Tag from a given image
   <img src="/Images/track.png" alt="Track Tag">
 </p>
 
-The tracking stage will involve keeping the tag in view throughout the sequence and performing image processing operations based on the tag’s orientation and position. This is done using Homography. Refer to the Document [Supplementary Homography](http://githuhttps://github.com/adheeshc/Augmented-Reality-Tag-Detection-and-Tracking/blob/master/Report/Supplementary_Homography.pdfb.com) in the Report folder for more details.
+The tracking stage will involve keeping the tag in view throughout the sequence and performing image processing operations based on the tag’s orientation and position. This is done using Homography. Refer to the Document [Supplementary Homography](https://github.com/adheeshc/Augmented-Reality-Tag-Detection-and-Tracking/blob/master/Report/Supplementary_Homography.pdfb.com) in the Report folder for more details.
 
 ### Superimposing Lena
 
